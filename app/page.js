@@ -32,36 +32,74 @@ export default function Home() {
                     <img src="/img/11.jpg" class="card-img-top custom-img"
                         alt="Card Image"></img>
                     <div class="card-body text-center">
-                        <h5 class="card-title">Furina</h5>
-                        <p class="card-text">ตัวละครระดับ 5 ดาว</p>
-                        <a href="#" class="btn btn-primary">Button</a>
+                        <h5 class="card-title">Tiger lily</h5>
+                        <p class="card-text">ความมั่งคั่ง, โชคลาภ, ศักดิ์ศรี</p>
+                        <a href="#" class="btn btn-primary">more</a>
                     </div>
                 </div>
             </div>
 
             <div class="col-md-4">
                 <div class="card mb-3">
-                    <img src="/img/11.jpg" class="custom-img"
+                    <img src="/img/12.jpg" class="custom-img"
                         alt="Card Image"></img>
                     <div class="card-body text-center">
-                        <h5 class="card-title">Furina</h5>
-                        <p class="card-text">ตัวละครระดับ 5 ดาว</p>
-                        <a href="#" class="btn btn-primary">Button</a>
+                        <h5 class="card-title">Frangipani</h5>
+                        <p class="card-text">การละแล้วซึ่งความโศก</p>
+                        <a href="#" class="btn btn-primary">more</a>
                     </div>
                 </div>
             </div>
 
             <div class="col-md-4">
                 <div class="card mb-3">
-                    <img src="/img/11.jpg" class="card-img-top custom-img"
+                    <img src="/img/13.jpg" class="card-img-top custom-img"
                         alt="Card Image"></img>
                     <div class="card-body text-center">
-                        <h5 class="card-title">Furina</h5>
-                        <p class="card-text">ตัวละครระดับ 5 ดาว</p>
-                        <a href="#" class="btn btn-primary">Button</a>
+                        <h5 class="card-title">Hibiscus</h5>
+                        <p class="card-text">เป็นสัญลักษณ์ของความรักที่เข้มแข็งและมั่นคง</p>
+                        <a href="#" class="btn btn-primary">more</a>
                     </div>
                 </div>
             </div>
+
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <img src="/img/15.jpg" class="card-img-top custom-img"
+                        alt="Card Image"></img>
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Rosepink</h5>
+                        <p class="card-text">การชื่นชนและการเชิดชูบูชา</p>
+                        <a href="#" class="btn btn-primary">more</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <img src="/img/16.jpg" class="card-img-top custom-img"
+                        alt="Card Image"></img>
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Dahlia pinnata</h5>
+                        <p class="card-text">ความสง่างาม ความเข้มแข็งภายใน และความคิดสร้างสรรค์</p>
+                        <a href="#" class="btn btn-primary">more</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <img src="/img/17.jpg" class="card-img-top custom-img"
+                        alt="Card Image"></img>
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Daisy</h5>
+                        <p class="card-text">รักของฉัน คือรักบริสุทธิ์</p>
+                        <a href="#" class="btn btn-primary">more</a>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
     </div>
     <Footer />

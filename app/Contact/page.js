@@ -17,14 +17,26 @@ export default function About() {
           <h2 className="text-center mb-4" style={{ color: '#333' }}>
             Contact
           </h2>
-          
+          <img
+            src="/img/544.jpg"
+            className="img-fluid profile-pic mb-4"
+            style={{
+              border: '2px solid #ddd', // สีขอบรูปภาพ
+              padding: '5px',
+              borderRadius: '10px',
+            }}
+          />
        
           <p style={{ color: '#666' }}>
-          Email : adrhfjhfgdhghf@Ai.com
+          Email : flower@gmail.com
           <br></br>
           </p>
           <p style={{ color: '#666' }}>
-           เบอร์โทร : 841111158
+           เบอร์โทร : 123-456-789
+           <br></br>
+          </p>
+          <p style={{ color: '#666' }}>
+          Line : @flower789
           </p>
           
         </div>

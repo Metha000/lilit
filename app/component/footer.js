@@ -6,7 +6,19 @@ export default function Footer() {
   return (
     <>
       <footer className={`${styles.footer}`}>
-        <p>Hydro Archon ยังไม่ได้รับการเผยแพร่อย่างเป็นทางการ ดังนั้นข้อมูลที่นำเสนอที่นี่จึงอิงตามข้อมูลที่ได้รับจากการทดสอบเบต้า หากจำเป็นเราจะอัปเดตคำแนะนำเมื่อนางเอกปรากฏในเกม </p>
+        <p>© 2024 Flowers. All rights reserved.
+
+1234 Street Name, City, State, ZIP Code | Phone: (123) 456-7890 | Email: flower@gmail.com
+
+Follow us on:
+
+Facebook
+Twitter
+Instagram
+LinkedIn
+Privacy Policy | Terms of Service | Contact Us
+
+</p>
       </footer>
     </>
   );

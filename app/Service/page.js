@@ -15,7 +15,7 @@ export default function About() {
           }}
         >
           <h2 className="text-center mb-4" style={{ color: '#333' }}>
-            About
+            Service
           </h2>
           <img
             src="/img/544.jpg"
@@ -27,10 +27,15 @@ export default function About() {
             }}
           />
           <p style={{ color: '#666' }}>
-            Genshin Impact ฟูรินะ. ตัวละครระดับ 5 ดาว ที่เป็นธาตุไฮโดรและใช้ดาบมือเดียวในการต่อสู้ ในทีม เธอสามารถมีบทบาทเป็นตัวแทนจำหน่าย/สนับสนุนความเสียหายได้ ในคู่มือนี้ คุณจะได้เรียนรู้เกี่ยวกับงานสร้าง อาวุธ และสิ่งประดิษฐ์ที่ดีที่สุดของเธอ รวมถึงยูนิตที่เหมาะสมที่สุดกับเธอ
+          คุณสามารถค้นหาความหมายของดอกไม้ได้จากหลายแหล่งข้อมูล 
+          1.เว็บไซต์และบล็อก Teleflora
+          2.หนังสือ "The Language of Flowers" โดย Vanessa Diffenbaugh
+          "Floriography: An Illustrated Guide to the Victorian Language of Flowers" โดย Jessica Roux
+          3.ร้านดอกไม้
+          4.บทความออนไลน์และนิตยสาร บทความในนิตยสารเกี่ยวกับการจัดสวนหรือดอกไม้ เช่น "Better Homes and Gardens" หรือ "Martha Stewart Living"
           </p>
           <a href="contact.html" className="btn btn-primary">
-           GG
+           more
           </a>
         </div>
       </div>
